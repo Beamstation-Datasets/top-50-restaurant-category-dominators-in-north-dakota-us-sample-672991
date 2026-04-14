@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f01da7ce-55c2-4616-a402-f9f716e83525",
+  "id_short": 672991,
+  "published_at": "2026-04-14T19:11:38Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-north-dakota-us-sample-672991",
+  "sample_asset_name": "beamstation_672991_restaurants-us-nd_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/672991/beamstation_672991_restaurants-us-nd_SAMPLE_DIST.csv",
+  "sample_records": 5,
+  "sample_sha256": "8f3e9403fb163c84e454484a5bf24af2ceb0a211e819e1bb4b831f40ee6ec7c9",
+  "sample_size_bytes": 37722,
+  "total_records": 50
+}
