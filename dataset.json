@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in North Dakota, US",
+  "export_job_id": "f01da7ce-55c2-4616-a402-f9f716e83525",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 672991,
+  "location_name": "North Dakota",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-north-dakota-us-sample-672991",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/672991/beamstation_672991_restaurants-us-nd_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 5,
+  "sample_sha256": "8f3e9403fb163c84e454484a5bf24af2ceb0a211e819e1bb4b831f40ee6ec7c9",
+  "sample_size_bytes": 37722,
+  "total_records": 50,
+  "updated_at": "2026-04-08T01:48:40.625151+00:00"
+}
