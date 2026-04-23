@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in North Dakota, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `672991` |
 | Location | North Dakota |
 | Category | Restaurants |
-| Full dataset size | 50 records |
-| Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-15T07:21:29.409648+00:00 |
+| Full dataset size | 17 records |
+| Free sample size | 1 records (5.88%) |
+| Last export | 2026-04-22T13:40:52.556354+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-north-dakota-us-sample-672991/releases/download/sample-latest/beamstation_672991_restaurants-us-nd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
